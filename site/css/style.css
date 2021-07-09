@@ -242,8 +242,9 @@ header .intro-text {
 	position: relative;
 	width: 225px;
 	height: 225px;
-	border-radius: 50%;
-	border: 10px solid rgba(255,255,255,0.1);
+	border-radius: 30%;
+	border: 10px solid white;
+	padding: 20px;
 }
 #services .service-desc {
 	margin: 10px 10px 40px;
